@@ -1,3 +1,1 @@
-# RAGPDFChatBot
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/DeathSurfing/RAGPDFChatBot)
+Hi This is just a quick implementation of RAG with a PDF for a chatbot
